@@ -13,6 +13,7 @@ public class App
     {
         App obj = new App();
         System.out.println("Unique ID : " + obj.generateUniqueKey());
+        System.out.println("Hello Sabrine");
     }
 
     public String generateUniqueKey(){
