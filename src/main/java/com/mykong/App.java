@@ -14,6 +14,7 @@ public class App
         App obj = new App();
         System.out.println("Unique ID : " + obj.generateUniqueKey());
         System.out.println("Hello Sabrine");
+        System.out.println("Hello World!");
     }
 
     public String generateUniqueKey(){
